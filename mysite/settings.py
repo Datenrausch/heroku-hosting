@@ -33,7 +33,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'honoradar.apps.HonoradarConfig',
-         'polls.apps.PollsConfig',
+    'polls.apps.PollsConfig',
 
     'django.contrib.admin',
     'django.contrib.auth',
